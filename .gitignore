@@ -1,3 +1,5 @@
+#VSCode launch config
+launch.json
 # Source : https://github.com/github/gitignore
 # Maven, Node, Python, Rails
 
